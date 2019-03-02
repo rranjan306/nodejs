@@ -1,0 +1,7 @@
+{
+  "database": {
+    "client": "MySQL",
+    "host": "host.mysql",
+    "password": "MYSQL_PASS"
+  }
+}

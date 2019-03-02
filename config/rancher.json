@@ -1,0 +1,7 @@
+{
+  "database": {
+    "client": "Ranchor",
+    "host": "Ranzor.host",
+    "password": "MYSQL_PASS"
+  }
+}

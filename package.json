@@ -1,0 +1,46 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This repo will contain all the basics of node.",
+  "main": "lib/app.js",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rranjan306/nodejs.git"
+  },
+  "keywords": [],
+  "author": "Deepak Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rranjan306/nodejs/issues"
+  },
+  "homepage": "https://github.com/rranjan306/nodejs#readme",
+  "dependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "knex": "^0.16.3",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.13",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.10",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-add-module-exports": "^1.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-nodemon": "^2.4.2",
+    "run-sequence": "^2.2.1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "database": {
+    "client": "MongoDB",
+    "host": "host.mongo",
+    "password": "MYSQL_PASS"
+  }
+}
